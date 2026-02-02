@@ -1,1 +1,1 @@
-print(list(map(lambda wrd: wrd[0].upper(), input().split())))
+print(int('09'))
